@@ -1,6 +1,6 @@
 ## Hi, Im Nishantha 👋
 
-![cover](https://drive.google.com/uc?export=view&id=1GrL0QknmQVk8PKKbWyvpEfS2rc3Ab1Kh)
+![cover](https://drive.google.com/uc?export=view&id=1GHFQi--2pUW71UNgtvfnwQineP7jRAqJ)
 
 I am a passionate web developer and love to learn and create software applications to solve simple to complex problems and ease lives. I have been doing web development for 6 years now. Interests in full-stack and API development.
 
