@@ -1,4 +1,4 @@
-## Hi, Im Nishantha 👋
+## Hey, Im Nishantha 👋
 
 ![cover](https://drive.google.com/uc?export=view&id=1GHFQi--2pUW71UNgtvfnwQineP7jRAqJ)
 
